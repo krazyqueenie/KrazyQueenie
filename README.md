@@ -1,115 +1,62 @@
 # Hey, I'm KrazyQueenie 👋💻
 
-### Windows Developer • Web Developer • Experimental Developer 🧪
+### Solutions Architect • Windows & Web Automation Engineer • AI-Augmented Developer 🧪
 
-**I break things until they work better.**
+**I dismantle broken logic until it works seamlessly.**
 
-I'm an independent developer who likes building useful things, creative things,
-weird things, and occasionally things that started with:
+I am a systems thinker and a dreamer of logic. I look at modern software ecosystems and constantly ask: 
+*"If System A can do this, and System B can do that, why isn't there a bridge between them?"* 
 
-> "Why the hell can't I just make this myself?"
+Then, I build the bridge. 
 
-So I do. 😂
-
-I primarily build for **Windows and the web** — websites, browser tools,
-desktop utilities, Chrome extensions, automation scripts, games,
-creative tools, and experimental projects.
-
-My playground is Windows, browsers, the web, and whatever interesting
-rabbit hole I find next.
+With decades of foundational problem-solving experience, I specialize in stripping away corporate over-engineering, bypassing paid cloud API gates, and building lightweight, zero-latency utilities that automate tedious tasks. I pair my architectural mindset with advanced AI-augmented development workflows to design, test, and ship high-impact software at accelerated speeds.
 
 ---
 
-## 🛠️ What I Build
+## 🛠️ What I Build (Proof of Work)
 
-- 🖥️ Windows software & utilities
-- 🌐 Websites & browser-based tools
-- 🧩 Chrome extensions
-- ⚙️ AutoHotkey & automation scripts
-- 🖱️ Clickers & workflow helpers
-- 🎨 Creative & developer tools
-- 🎮 Browser games & interactive projects
-- 🧪 Experiments, prototypes & proof-of-concepts
+I focus heavily on **Windows desktop environments, browser architecture, and automation**. I love tackling problems where existing software is over-complicated, locked down, or buried under stacked backend logic that ruins usability.
 
-I especially like problems where the existing solution is missing,
-overcomplicated, locked down, or just plain annoying.
-
-Sometimes the answer is finding another tool.
-
-Sometimes the answer is **making my own.**
+* **⚙️ Automation & Tooling:** Custom AutoHotkey scripts, lightweight batch utilities, and workflow helpers that eliminate human friction.
+* **🖥️ Native Desktop Software:** Fast, compiled `.exe` tools (built with Python/PyInstaller) using local system frameworks to bypass expensive cloud APIs.
+* **🧩 Web Ecosystems:** Performance-optimized frontend interfaces, custom Chrome extensions, and browser-based creator tools.
+* **🧪 Rapid Prototyping:** Turning complex behavioral specifications into functioning MVPs (Minimum Viable Products) in record time.
 
 ---
 
-## 🌐 Around the Web
+## ⚡ Featured Project Showcase
 
-### 💙 Pixel'N'Code
-**https://pixelncode.dev/**
-
-My development and creative utility hub — browser tools, Chrome extensions,
-creative resources, SVG assets, games, utilities, experiments, and other
-projects for creators, developers, and everyday users.
-
-### 👑 KrazyQueenie
-**https://www.krazyqueenie.com/**
-
-My personal creative playground where development collides with music,
-digital art, games, experiments, and whatever else I feel like making.
-
-It's part of what I do — but definitely not all of it.
+### 🎙️ Native Video Narration Pipeline (Python / Batch)
+A completely offline, cross-platform video narration utility designed specifically for indie developers and budget-conscious creators who need to generate instructional video voiceovers.
+* **The Bridge:** Hooks directly into the operating system's native text-to-speech engines (`SAPI5` on Windows / `NSSS` on macOS).
+* **The Benchmark:** Successfully rendered **18,644 characters (~22 minutes of continuous audio) in under 5 minutes** on standard laptop hardware—outperforming heavy cloud dependencies and bulky local neural models.
+* **The Design:** Optimized for absolute transparency. Features a modular `/src` directory for instant open-source security code review, while bundling a single-click standalone `.exe` for non-technical users.
 
 ---
 
-## 🧪 Experimental Development
+## 🌐 Project Hubs
 
-This is probably my favorite part.
-
-I like taking things apart, testing ideas, combining technologies,
-and figuring out what's actually possible.
-
-I'm currently digging deeper into:
-
-- 🐧 Linux
-- 🖥️ Self-hosting
-- 🌐 Networking
-- 🔐 Web & server security
-- 🏠 Home server environments
-- 🔧 Open-source development
-- 🧅 Tor & onion-service development
-
-I'm fascinated by the stranger corners of the internet and the technology
-that makes them possible.
-
-I love experimenting with onion sites and building weird little worlds around
-UFOs, aliens, unexplained phenomena, conspiracy rabbit holes, alternate
-realities, strange dimensions, internet mysteries, and the idea that reality
-might be a whole lot bigger than we understand. 👽🛸🧅
-
-Sometimes I build something because it's useful.
-
-Sometimes I build it because it's weird.
-
-Both are perfectly good reasons. 😂
+* **💙 Pixel'N'Code ([pixelncode.dev](https://pixelncode.dev/)):** My primary creative and development utility hub. A curated ecosystem of browser tools, SVG assets, Chrome extensions, and performance experiments built for creators and developers.
+* **👑 Personal Playground ([krazyqueenie.com](https://www.krazyqueenie.com/)):** Where software development collides with digital art, music production, and interactive design.
 
 ---
 
-## 💡 How I Build
+## 🔬 Deep Dives & Experimental Horizons
 
-**Build it.**  
-**Test it.**  
-**Break it.**  
-**Figure out why it broke.**  
-**Make it better.**
+When I'm not optimizing everyday business workflows, I am diving down tech rabbit holes to understand how data moves through non-traditional infrastructure. 
 
-Then probably break it again.
+* **Infrastructure:** Self-hosting architectures, Linux environments, local home server networks, and hard security principles.
+* **The Dark Web & Privacy:** Investigating Tor networking and building onion-service application layers.
+* **The Weird Web:** Constructing alternative digital spaces exploring unexplained phenomena, internet mysteries, cryptographic puzzles, and deep-space anomalies. 👽🛸🧅
+
+*Sometimes I build a tool because it maximizes enterprise productivity. Sometimes I build it because it's fascinatingly strange. Both require pristine logic.*
 
 ---
 
-### 💙 Thanks for stopping by
+## 💡 Engineering Philosophy
 
-I'm always building, experimenting, learning, and finding another
-rabbit hole to disappear into.
-
-If one of my public projects helps you, feel free to use it,
-learn from it, improve it, or just say hi.
-
-**I break things until they work better.** 🧪
+1. **Deconstruct:** Take complex systems apart to expose the underlying data flow.
+2. **Optimize:** Strip out redundant server consults and stacked, unnecessary checks.
+3. **Bridge:** Connect the disjointed pieces into a clean, lightning-fast workflow.
+4. **Iterate:** Break it, analyze the failure state, patch it, and make it bulletproof.
+🧪
